@@ -1,0 +1,4 @@
+Sitemap: https://www.bioinformaticslife.com/sitemapindex.xml
+
+User-Agent: *
+Host: www.bioinformaticslife.com
