@@ -24,7 +24,7 @@ SITE_URL = "https://www.bioinformaticslife.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://www.bioinformaticslife.com/"
-BLOG_EMAIL = "mikelkaufman@gmail.com"
+BLOG_EMAIL = "bioinformaticslife@gmail.com"
 BLOG_DESCRIPTION = "Bioinformatics blog"  # (translatable)
 
 # Nikola is multilingual!
@@ -142,7 +142,9 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+#        ("/rss.xml", "RSS feed"),
+        ("https://github.com/MLKaufman", "My GitHub"),
+        ("/about/", "About"),
     ),
 }
 
@@ -154,7 +156,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "bootblog4"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
@@ -936,7 +938,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # )
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
