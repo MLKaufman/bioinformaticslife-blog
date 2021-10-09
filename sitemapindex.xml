@@ -6,15 +6,31 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://www.bioinformaticslife.com/categories/blog.xml</loc>
+  <lastmod>2021-10-11T02:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.bioinformaticslife.com/categories/colab.xml</loc>
+  <lastmod>2021-10-11T02:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.bioinformaticslife.com/categories/jupyter.xml</loc>
+  <lastmod>2021-10-11T02:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.bioinformaticslife.com/categories/nikola.xml</loc>
+  <lastmod>2021-10-11T02:06:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.bioinformaticslife.com/galleries/rss.xml</loc>
-  <lastmod>2021-10-01T04:01:00Z</lastmod>
+  <lastmod>2021-10-03T03:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.bioinformaticslife.com/rss.xml</loc>
-  <lastmod>2021-09-30T03:02:00Z</lastmod>
+  <lastmod>2021-10-11T02:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.bioinformaticslife.com/sitemap.xml</loc>
-  <lastmod>2021-10-01T04:01:00Z</lastmod>
+  <lastmod>2021-10-11T02:06:00Z</lastmod>
  </sitemap>
 </sitemapindex>
